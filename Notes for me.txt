@@ -1,0 +1,2 @@
+features------> number of colums 
+labels --> class  last column(-1 and 1)
